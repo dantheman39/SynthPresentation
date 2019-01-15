@@ -1,2 +1,2 @@
 # SynthPresentation
-Some patches to use with the [Helm](https://tytel.org/helm/) synthesizer for a presentation on synthesis
+Some patches for [Helm](https://tytel.org/helm/) that we'll work with during a presentation on synthesis.
